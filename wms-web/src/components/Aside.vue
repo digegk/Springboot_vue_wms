@@ -1,8 +1,8 @@
 <template>
     <el-menu
-            background-color="#545c64"
+            background-color="#708090"
             text-color="#fff"
-            active-text-color="#ffd04b"
+            active-text-color="#1E90FF"
             style="height: 100%;"
             default-active="/Home"
             :collapse="isCollapse"

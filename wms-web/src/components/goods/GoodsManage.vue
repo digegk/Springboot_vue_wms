@@ -162,7 +162,7 @@
                 </el-form-item>
             </el-form>
             <span slot="footer" class="dialog-footer">
-    <el-button @click="inDialogVisible = false">取 消</el-button>
+    <el-button @click="cancelUser">取 消</el-button>
     <el-button type="primary" @click="doInGoods">确 定</el-button>
   </span>
         </el-dialog>
@@ -243,6 +243,10 @@
             doSelectUser(val){
                 console.log(val)
                 this.tempUser = val
+            },
+            cancelUser(){
+              this.inDialogVisible = false
+              this.form1.username = ''
             },
             confirmUser(){
                 this.form1.username = this.tempUser.name
