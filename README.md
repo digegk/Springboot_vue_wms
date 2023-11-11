@@ -36,7 +36,7 @@ npm run serve 启动前端
 ## 记录管理
 ![image](https://github.com/digegk/Springboot_vue_wms/assets/102849992/ae9fd38c-89fd-4c52-8913-8fd5226e628f)
 
-用户主界面
+## 用户主界面
 ![image](https://github.com/digegk/Springboot_vue_wms/assets/102849992/8915ab9c-fdeb-4375-8074-b971122730a9)
 
 
