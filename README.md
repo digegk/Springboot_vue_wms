@@ -25,6 +25,7 @@ application.yml        配置端⼝和数据源
 npm i 下载前端依赖  
 npm run serve 启动前端  
 
+## 界面展示  
 ### 登录界面
 ![image](https://github.com/digegk/Springboot_vue_wms/assets/102849992/956a7c26-45a8-4cfc-a47c-79d91a182f8c)
 
