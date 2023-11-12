@@ -45,7 +45,7 @@ npm run serve 启动前端
 ### 物品分类管理
 ![image](https://github.com/digegk/Springboot_vue_wms/assets/102849992/e758302d-a14f-47ce-add1-62b94ba7f8af)
 
-## 物品管理
+### 物品管理
 ![image](https://github.com/digegk/Springboot_vue_wms/assets/102849992/7ffe3c07-5969-44fa-adf4-21294ed20793)
 
 ### 记录管理
