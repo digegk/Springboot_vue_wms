@@ -2,7 +2,7 @@
 ## 仓库管理系统  
 
 后端：Springboot mybatis-plus java  
-前端：node.js、 vue-cli、 element-ui、 axios、 vue Router
+前端：node.js、 vue-cli、 element-ui、 axios、 vue Router  
 数据库：mysql  wms.sql
 
 ## 项目功能  
